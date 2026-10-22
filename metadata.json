@@ -1,0 +1,6 @@
+{
+  "name": "PullPlan Pro - Construction Pull Planning & P6 Sync",
+  "description": "Low-effort lean pull planning board with Primavera P6 XLSX import/export, Miro-style interactive dependencies, swimlanes, and 11x17 landscape PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
